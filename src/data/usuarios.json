@@ -1,0 +1,47 @@
+[
+      {
+        "id":1,
+        "nombre": "Ana",
+        "apellido": "Gómez",
+        "edad": 30,
+        "fecha_nacimiento": "1994-06-15",
+        "direccion": "Calle Falsa 123, Piso 4",
+        "pais": "España"
+      },
+      {
+        "id":2,
+        "nombre": "Luis",
+        "apellido": "Martínez",
+        "edad": 25,
+        "fecha_nacimiento": "1998-11-02",
+        "direccion": "Avenida Libertad 456, Oficina 7B",
+        "pais": "México"
+      },
+      {
+        "id":3,
+        "nombre": "Sofia",
+        "apellido": "Pérez",
+        "edad": 28,
+        "fecha_nacimiento": "1996-03-20",
+        "direccion": "Calle Mayor 789",
+        "pais": "Argentina"
+      },
+      {
+        "id":4,
+        "nombre": "Jorge",
+        "apellido": "Rodríguez",
+        "edad": 35,
+        "fecha_nacimiento": "1989-08-30",
+        "direccion": "Plaza Central 101",
+        "pais": "Colombia"
+      },
+      {
+        "id":5,
+        "nombre": "María",
+        "apellido": "Fernández",
+        "edad": 32,
+        "fecha_nacimiento": "1991-12-05",
+        "direccion": "Boulevard del Sol 202",
+        "pais": "Chile"
+      }
+]
